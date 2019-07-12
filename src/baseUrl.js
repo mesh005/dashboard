@@ -1,0 +1,1 @@
+export const baseUrl = 'https://api.pixel.coinscrap.com/api/'
